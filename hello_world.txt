@@ -1,0 +1,3 @@
+Hello world! This is git practice.
+That is all.
+Bye!
